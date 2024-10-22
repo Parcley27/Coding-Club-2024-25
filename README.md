@@ -1,4 +1,4 @@
-# Coding-Club-2024-25
+# Coding Club 2024-25
 A record for everything that Coding Club does in 2024/2025.
 
 Slides from all meetings are available here:
